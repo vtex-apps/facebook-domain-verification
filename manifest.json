@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "facebook-domain-verification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Facebook Domain Verification",
   "description": "Verify your domain ownership.",
   "builders": {
